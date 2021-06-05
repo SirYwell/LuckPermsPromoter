@@ -1,0 +1,5 @@
+name: LuckPermsPromoter
+main: de.sirywell.luckpermspromoter.LuckPermsPromoterPlugin
+version: 1.0.0
+author: SirYwell
+depend: [LuckPerms]
